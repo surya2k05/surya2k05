@@ -1,8 +1,6 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhmpics.com%2Fmern-stack-Wallpapers.html&psig=AOvVaw1fOYH8tFTN6vPcIf-vfEY9&ust=1721628869115000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDm6929t4cDFQAAAAAdAAAAABAn)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Suryakanta Priyadarshi</h1>
 <h3 align="center">A passionate frontend developer creating interactive web solutions from India</h3>
-img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya2k05" alt="surya2k05" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
